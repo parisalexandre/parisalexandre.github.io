@@ -1,0 +1,15 @@
+---
+title: "Contributions of Space Missions to Better Tsunami Science: Observations, Models and Warnings"
+collection: publications
+permalink: /publication/2020-sig-space-missions
+excerpt: 'Space missions for tsunami science'
+date: 2020-10-09
+venue: 'Survey in Geophysics'
+paperurl: 'http://academicpages.github.io/files/Contributions_of_Space_Missions_to_Better_Tsunami_.pdf'
+citation: "Hébert, H., Occhipinti, G., Schindelé, F., Gailler, A., Pinel-Puysségur, B., Gupta, H.K., Rolland, L., Lognonné, P., Lavigne, F., Meilianda, E., Chapkanski, S., Crespon, F., Paris, A., Heinrich, P., Monnier, A., Jamelot, A. & Reymond, D. (2020), 'Contributions of Space Missions to Better Tsunami Science: Observations, Models and Warnings', <i>Surveys in Geophysics</i> <b>41</b>, 1535–1581"
+---
+Most tsunamis occur after large submarine earthquakes, particularly in the Pacific Ocean. However, following the 2004 tsunami in the Indian Ocean, tsunami hazard awareness was significantly raised at the global scale, and warning systems were developed in many other regions, where large tsunamis are rarer but can also produce large catastrophes. Here we first review the basic physics of a tsunami, from its triggering to its coastal impact, and we offer a review of the geophysical and sea-level data that can describe the various processes operating during a tsunami. Global Navigation Satellite System (GNSS) data have a key role in better describing the ground deformation following a tsunamigenic earthquake close to the coast. The GNSS observations complement seismological data to constrain the rupture model rapidly and robustly. Interferometric Synthetic Aperture Radar (SAR) also contributes to this field, as well as optical imagery, relevant to monitoring elevation changes following subaerial landslides. The observation of the sea-level variations, in the near field and during the propagation across the ocean, can also increasingly benefit from GNSS data (from GNSS buoys) and from robust satellite communication: pressure gauges anchored on the seafloor in the deep ocean contribute to warning systems only by data continuously transmitted through satellites. The sounding of ionospheric Total Electron Content (TEC) variations through GNSS, altimetry, or a ground-based airglow camera, is a promising way to record tsunami initiation and propagation indirectly. Finally, GNSS, optical and SAR imagery are essential to map and quantify the damage following tsunami flooding. Satellite data are expected to contribute more to operational systems in the future provided they are reliably available and analysed in real time.
+
+[Download paper here](http://academicpages.github.io/files/Contributions_of_Space_Missions_to_Better_Tsunami_.pdf)
+
+Recommended citation: Hébert, H., Occhipinti, G., Schindelé, F., Gailler, A., Pinel-Puysségur, B., Gupta, H.K., Rolland, L., Lognonné, P., Lavigne, F., Meilianda, E., Chapkanski, S., Crespon, F., Paris, A., Heinrich, P., Monnier, A., Jamelot, A. & Reymond, D. (2020), 'Contributions of Space Missions to Better Tsunami Science: Observations, Models and Warnings', <i>Surveys in Geophysics</i> <b>41</b>, 1535–1581.
