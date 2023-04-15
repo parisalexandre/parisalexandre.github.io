@@ -3,7 +3,7 @@ title: "Landslide tsunamis: Comparison between depth-averaged and Navier-Stokes 
 collection: publications
 permalink: /publication/2021-ceng-comparison
 excerpt: 'Comparison depth-averaged / Navier-Stokes'
-date: 2021
+date: 2021-09-28
 venue: 'Coastal Engineering'
 paperurl: 'http://academicpages.github.io/files/Article_Coastal_Engineering_HAL.pdf'
 citation: "Paris, A., Heinrich, P. & Abadie, S. (2021), 'Landslide tsunamis: Comparison between depth-averaged and Navier-Stokes models', Coastal Engineering 170(104022)"

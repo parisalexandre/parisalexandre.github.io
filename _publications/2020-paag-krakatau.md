@@ -3,7 +3,7 @@ title: "The December 22, 2018 Anak Krakatau, Indonesia, landslide and tsunami: p
 collection: publications
 permalink: /publication/2020-paag-krakatau
 excerpt: 'Krakatau landslide and tsunami modeling'
-date: 2020
+date: 2019-12-20
 venue: 'Pure and Applied Geophysics'
 paperurl: 'http://academicpages.github.io/files/The_December_22_2018_Anak_Krakatau_Indonesia_Lands.pdf'
 citation: "Paris, A., Heinrich, P., Paris, R. & Abadie, S. (2020) 'The December 22, 2018 Anak Krakatau, Indonesia, landslide and tsunami: preliminary modeling results', <i>Pure and Applied Geophysics</i> <b>177</b>, 571--590"
