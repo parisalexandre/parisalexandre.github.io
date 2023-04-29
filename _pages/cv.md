@@ -46,17 +46,17 @@ Publications
   {% endfor %}</ul>
   <style> 
     ul {
-      -moz-transform: rotate(180deg);
-      -webkit-transform: rotate(180deg);
-      transform: rotate(180deg);
+      list-style-type:none;
+      counter-reset:item 6;
     }
     ul > li {
-      -moz-transform: rotate(-180deg);
-      -webkit-transform: rotate(-180deg);
-      transform: rotate(-180deg);
+      counter-increment:item -1;
     }
-   </style>
-  
+    ul > li:after {
+      content:" " counter(item);
+    }
+  </style>
+ 
 Talks and posters
 ======
   <ul reversed>{% for post in site.talks %}
