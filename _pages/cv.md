@@ -41,10 +41,10 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ol>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-    {: reversed="reversed"}
-  {% endfor %}</ul>
+  {% endfor %}
+  {: reversed="reversed"}</ol>
   
 Talks and posters
 ======
