@@ -44,18 +44,6 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  <style> 
-    ul {
-      list-style-type:none;
-      counter-reset:item 6;
-    }
-    ul > li {
-      counter-increment:item -1;
-    }
-    ul > li:after {
-      content:" " counter(item);
-    }
-  </style>
  
 Talks and posters
 ======
