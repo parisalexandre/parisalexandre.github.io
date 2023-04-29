@@ -43,8 +43,8 @@ Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}
-  {: reversed="reversed"}</ul>
+    {: reversed="reversed"}
+  {% endfor %}</ul>
   
 Talks and posters
 ======
