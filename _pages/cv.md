@@ -41,9 +41,21 @@ Skills
 
 Publications
 ======
-  <ol reversed>{% for post in site.publications %}
+  <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ol>
+  {% endfor %}</ul>
+  <style> 
+    ul {
+      -moz-transform: rotate(180deg);
+      -webkit-transform: rotate(180deg);
+      transform: rotate(180deg);
+    }
+    ul > li {
+      -moz-transform: rotate(-180deg);
+      -webkit-transform: rotate(-180deg);
+      transform: rotate(-180deg);
+    }
+   </style>
   
 Talks and posters
 ======
