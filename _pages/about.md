@@ -14,5 +14,5 @@ Here I will talk about my work, present and past, and you will find my publicati
 
 Please contact me if you see any issue with this website :)
 
-<video width="320" height="240" autoplay muted src="/files/IMG_7320.mov" type="video/mov">
+<video src="/files/IMG_7320.mov" controls="controls" style="max">
 </video> 
