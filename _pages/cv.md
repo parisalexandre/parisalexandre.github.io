@@ -41,18 +41,21 @@ Skills
 
 Publications
 ======
+From oldest to newest
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
  
 Talks and posters
 ======
+From oldest to newest
   <ul reversed>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
 ======
+From oldest to newest
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
