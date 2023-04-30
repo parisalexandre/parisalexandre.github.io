@@ -2,7 +2,7 @@
 title: 'Comparison of models for the simulation of landslide generated Tsunamis'
 collection: publications
 permalink: /publication/2021-esaim-cemracs
-excerpt: 'Comparison models'
+excerpt: 'Comparison of different models for landslide tsunami modeling'
 date: 2021-06-01
 venue: 'ESAIM: PROCEEDINGS AND SURVEYS'
 paperurl: 'http://academicpages.github.io/files/proc2107002.pdf'

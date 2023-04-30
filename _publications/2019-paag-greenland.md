@@ -2,7 +2,7 @@
 title: "Numerical modeling of the June 17, 2017 landslide and tsunami events in Karrat Fjord, west Greenland"
 collection: publications
 permalink: /publication/2019-paag-greenland
-excerpt: 'Karrat Fjord landslide tsunami modeling'
+excerpt: '2017 Karrat Fjord landslide and tsunami simulations with a depth-averaged model'
 date: 2019-02-11
 venue: 'Pure and Applied Geophysics'
 paperurl: 'http://academicpages.github.io/files/Numerical_Modeling_of_the_June_17_2017_Landslide_a.pdf'
